@@ -1,16 +1,106 @@
-## Hi there 👋
+# Hi, I’m Divyanshu Patel
 
-<!--
-**divyanshupatel17/divyanshupatel17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Undergraduate (AI & ML)  
+Flutter & Full-Stack Developer · Open-Source Maintainer
 
-Here are some ideas to get you started:
+I build **production-ready applications** with real users, focusing on **mobile systems, scalable backends, and applied machine learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Chennai, India  
+🌐 https://divyanshupatel.com  
+📱 https://vitverse.divyanshupatel.com  
+
+---
+
+## About Me
+
+- Founder & maintainer of **VIT Verse**, a campus companion platform
+- Built and deployed products used by **4,000+ students**
+- Experienced in Flutter, backend services, and ML systems
+- Strong focus on clean architecture, performance, and maintainability
+
+---
+
+## Core Skills
+
+**Languages**
+- Java · C · C++ · Dart · JavaScript · Python
+
+**Frameworks & Platforms**
+- Flutter (Primary)
+- Native Android (Java)
+- Firebase · Supabase
+- React
+
+**Engineering**
+- REST APIs
+- Git & GitHub Actions
+- CI/CD pipelines
+- System design & analytics
+
+---
+
+## Selected Work
+
+### VIT Verse — Campus Companion App
+Founder & Lead Developer
+
+- Flutter-based mobile app used by thousands of students
+- Academic analytics, attendance & timetable insights
+- Campus utilities: Lost & Found, Cab Share
+- Real-time notifications using Firebase
+- Actively maintained production system
+
+🔗 https://vitverse.divyanshupatel.com
+
+---
+
+### Im Lazy — Productivity Browser Extension
+Under active development
+
+- Automates VTOP, LMS & registration workflows
+- FFCS slot clash detection & faculty insights
+- Reduces registration flow to seconds
+- Focused on performance and automation
+
+---
+
+### Machine Learning Projects
+
+- Himalayan Expedition Success Prediction  
+- Leukemia Detection using Deep Learning  
+
+Focus on real-world datasets and explainability.
+
+---
+
+## Engineering Principles
+
+- Production over prototypes
+- Minimal dependencies, clear abstractions
+- Security and privacy by default
+- Maintainability matters
+
+---
+
+## Open Source
+
+- Founder & maintainer of the **VIT Verse** GitHub organization
+- Building student-focused tools with real adoption
+- Open to structured collaboration and mentorship
+
+---
+
+## Activity & Reach
+
+![GitHub Streak](https://streak-stats.demolab.com?user=divyanshupatel17&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=divyanshupatel17&style=flat&color=blue)
+
+---
+
+## Contact
+
+- Portfolio: https://divyanshupatel.com
+- GitHub Org: https://github.com/vit-verse
+- LinkedIn: https://linkedin.com/in/divyanshupatel
+- Email: itzdivyanshupatel@gmail.com
