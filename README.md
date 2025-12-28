@@ -1,106 +1,93 @@
-# Hi, I’m Divyanshu Patel
+<h1 align="center">Hi, I’m Divyanshu Patel 👋</h1>
 
-Computer Science Undergraduate (AI & ML)  
+<p align="center">
+Computer Science Undergraduate (AI & ML) <br/>
 Flutter & Full-Stack Developer · Open-Source Maintainer
+</p>
 
-I build **production-ready applications** with real users, focusing on **mobile systems, scalable backends, and applied machine learning**.
-
-📍 Chennai, India  
-🌐 https://divyanshupatel.com  
-📱 https://vitverse.divyanshupatel.com  
+<p align="center">
+📍 Chennai, India <br/>
+🌐 <a href="https://divyanshupatel.com">divyanshupatel.com</a> · 
+📱 <a href="https://vitverse.divyanshupatel.com">vitverse.divyanshupatel.com</a>
+</p>
 
 ---
 
 ## About Me
 
-- Founder & maintainer of **VIT Verse**, a campus companion platform
-- Built and deployed products used by **4,000+ students**
-- Experienced in Flutter, backend services, and ML systems
-- Strong focus on clean architecture, performance, and maintainability
+- Founder & maintainer of **VIT Verse**
+- Built production apps used by **4,000+ students**
+- Strong focus on **mobile systems, backend services, and AI**
+- Care deeply about clean architecture & maintainability
 
 ---
 
-## Core Skills
+## Tech Stack
 
-**Languages**
-- Java · C · C++ · Dart · JavaScript · Python
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+</p>
 
-**Frameworks & Platforms**
-- Flutter (Primary)
-- Native Android (Java)
-- Firebase · Supabase
-- React
-
-**Engineering**
-- REST APIs
-- Git & GitHub Actions
-- CI/CD pipelines
-- System design & analytics
+### Frameworks & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+</p>
 
 ---
 
 ## Selected Work
 
 ### VIT Verse — Campus Companion App
-Founder & Lead Developer
-
-- Flutter-based mobile app used by thousands of students
-- Academic analytics, attendance & timetable insights
+- Flutter-based production app
+- Academic analytics, timetable & attendance insights
 - Campus utilities: Lost & Found, Cab Share
-- Real-time notifications using Firebase
-- Actively maintained production system
+- Real-time notifications
+- Actively maintained
 
 🔗 https://vitverse.divyanshupatel.com
 
 ---
 
 ### Im Lazy — Productivity Browser Extension
-Under active development
-
 - Automates VTOP, LMS & registration workflows
-- FFCS slot clash detection & faculty insights
-- Reduces registration flow to seconds
-- Focused on performance and automation
-
----
-
-### Machine Learning Projects
-
-- Himalayan Expedition Success Prediction  
-- Leukemia Detection using Deep Learning  
-
-Focus on real-world datasets and explainability.
-
----
-
-## Engineering Principles
-
-- Production over prototypes
-- Minimal dependencies, clear abstractions
-- Security and privacy by default
-- Maintainability matters
+- Slot clash detection & faculty insights
+- Performance-focused automation tool
 
 ---
 
 ## Open Source
 
-- Founder & maintainer of the **VIT Verse** GitHub organization
+- Founder of **VIT Verse GitHub Organization**
 - Building student-focused tools with real adoption
-- Open to structured collaboration and mentorship
+- Open to structured collaboration & mentorship
 
 ---
 
-## Activity & Reach
+## Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=divyanshupatel17&hide_border=true)
+<p>
+  <img src="https://streak-stats.demolab.com/api?user=divyanshupatel17&hide_border=true"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=divyanshupatel17&style=flat&color=blue)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=divyanshupatel17&style=flat"/>
+</p>
 
 ---
 
 ## Contact
 
-- Portfolio: https://divyanshupatel.com
-- GitHub Org: https://github.com/vit-verse
-- LinkedIn: https://linkedin.com/in/divyanshupatel
-- Email: itzdivyanshupatel@gmail.com
+- 🌐 Portfolio: https://divyanshupatel.com
+- 💻 GitHub Org: https://github.com/vit-verse
+- 💼 LinkedIn: https://linkedin.com/in/divyanshupatel
+- 📧 Email: itzdivyanshupatel@gmail.com
