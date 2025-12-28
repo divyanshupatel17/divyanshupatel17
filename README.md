@@ -75,9 +75,16 @@ Flutter & Full-Stack Developer · Open-Source Maintainer
 
 ## Activity
 
+## Activity
+
 <p>
   <img src="https://streak-stats.demolab.com/api?user=divyanshupatel17&hide_border=true"/>
 </p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=divyanshupatel17&style=flat"/>
+</p>
+
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=divyanshupatel17&style=flat"/>
