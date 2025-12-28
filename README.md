@@ -91,3 +91,7 @@ Flutter & Full-Stack Developer · Open-Source Maintainer
 - 💻 GitHub Org: https://github.com/vit-verse
 - 💼 LinkedIn: https://linkedin.com/in/divyanshupatel
 - 📧 Email: itzdivyanshupatel@gmail.com
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
