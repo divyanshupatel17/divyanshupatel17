@@ -125,24 +125,6 @@ const divyanshu = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-  <a href="https://github.com/divyanshupatel17">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyanshupatel17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&rank_icon=github&cache_seconds=1800"/>
-  </a>
-  <a href="https://github.com/divyanshupatel17">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshupatel17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&card_width=320&cache_seconds=1800"/>
-  </a>
-  
-</div>
-
-<div align="center">
-  
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=divyanshupatel17&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=5BCDEC&date_format=M%20j%5B%2C%20Y%5D"/>
-  </a>
-  
-</div>
 
 <div align="center">
   
@@ -152,18 +134,9 @@ const divyanshu = {
   
 </div>
 
-<div align="center">
-  
-  <a href="https://github.com/divyanshupatel17">
-    <img src="https://github-profile-trophy.vercel.app/?username=divyanshupatel17&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15"/>
-  </a>
-  
-</div>
 
-<details>
-<summary>📈 More Stats</summary>
-<br>
 
+<summary>📈 Stats</summary>
 <div align="center">
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanshupatel17&theme=tokyonight)
@@ -172,8 +145,6 @@ const divyanshu = {
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshupatel17&theme=tokyonight)
   
 </div>
-
-</details>
 
 ---
 
