@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06000f,40:0d0221,70:1a0533,100:0d0d2b&height=260&section=header&text=DIVYANSHU%20PATEL&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=CS%20%7C%20AI%20%26%20ML%20%7C%20Flutter%20%7C%20Open-Source%20Founder&descSize=17&descAlignY=62&descAlign=50&descColor=c4b5fd"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06000f,40:0d0221,70:1a0533,100:0d0d2b&height=180&section=header&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1400&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+systems+people+actually+use.;Founder+%40+VIT+Verse+%E2%80%94+4K%2B+users+%C2%B7+300K%2B+sessions;17%2B+Hackathon+Builds+%7C+Open+Source;AI+%C3%97+Mobile+%C3%97+Backend+%C3%97+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=DIVYANSHU+PATEL" alt="Divyanshu Patel" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=1400&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+systems+people+actually+use.;Founder+%40+VIT+Verse+%7C+4K%2B+users+%7C+300K%2B+sessions;17%2B+Hackathon+Builds+%7C+Open+Source;AI+%7C+Mobile+%7C+Backend+%7C+Research" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -29,16 +33,22 @@
 ## ◈ Identity
 
 <div align="center">
-
-|  |  |
-|--|--|
-| 🎓 **Degree** | CS Undergraduate · AI & ML · VIT Chennai |
-| 🚀 **Founded** | VIT Verse — 4K+ users · 300K+ sessions · 4.8★ |
-| 🏆 **Hackathons** | 17+ national & international builds |
-| 🌍 **Location** | Chennai, India |
-| 🤝 **Open to** | GSoC · Open Source · Collabs · Mentorship |
-| ⚡ **Mantra** | _Ship fast. Build things people actually use._ |
-
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93%20ROLE-CS%20Undergrad%20%7C%20AI%20%26%20ML%20%7C%20VIT%20Chennai-0d0221?style=for-the-badge&labelColor=1a0533&color=7C3AED"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20FOUNDED-VIT%20Verse%20%7C%204K%2B%20users%20%7C%20300K%2B%20sessions%20%7C%204.8%E2%98%85-0d0221?style=for-the-badge&labelColor=064e3b&color=10B981"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20BUILDS-17%2B%20hackathons%20%7C%20national%20%26%20international-0d0221?style=for-the-badge&labelColor=1e1b4b&color=6366F1"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20LOCATION-Chennai%2C%20India-0d0221?style=for-the-badge&labelColor=1c1917&color=78716c"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20OPEN%20TO-GSoC%20%7C%20Open%20Source%20%7C%20Collabs%20%7C%20Mentorship-0d0221?style=for-the-badge&labelColor=1a0533&color=EC4899"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20MANTRA-Ship%20fast.%20Build%20things%20people%20actually%20use.-0d0221?style=for-the-badge&labelColor=0c1a0d&color=22c55e"/>
 </div>
 
 ---
@@ -83,7 +93,7 @@
 ## 🏆 Hackathon Builds
 
 <details>
-<summary><b>17 builds across national &amp; international hackathons — expand to view</b></summary>
+<summary><b>17 builds across national and international hackathons — expand to view</b></summary>
 
 <br/>
 
@@ -115,13 +125,6 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=divyanshupatel17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=EC4899&text_color=c9d1d9"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshupatel17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshupatel17&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9"/>
 
 </div>
@@ -130,18 +133,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshupatel17&bg_color=0d1117&color=A78BFA&line=EC4899&point=ffffff&area=true&hide_border=true&area_color=2d1b69"/>
 
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshupatel17/divyanshupatel17/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshupatel17/divyanshupatel17/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/divyanshupatel17/divyanshupatel17/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
 </div>
 
 ---
