@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a0533,100:0d0d2b&height=280&section=header&text=Divyanshu%20Patel&fontSize=78&fontAlignY=45&animation=fadeIn&fontColor=ffffff&fontFamily=Orbitron&desc=CS%20%7C%20AI%20%26%20ML%20%7C%20Flutter%20%7C%20Founder&descSize=18&descAlignY=65&descAlign=50&stroke=7C3AED&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06000f,40:0d0221,70:1a0533,100:0d0d2b&height=260&section=header&text=DIVYANSHU%20PATEL&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=CS%20%7C%20AI%20%26%20ML%20%7C%20Flutter%20%7C%20Open-Source%20Founder&descSize=17&descAlignY=62&descAlign=50&descColor=c4b5fd"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=580&lines=Building+systems+people+actually+use.;Founder+%40+VIT+Verse+%E2%80%94+4K%2B+users+%C2%B7+300K%2B+sessions;17%2B+Hackathon+Builds+%7C+Open+Source;AI+%C3%97+Mobile+%C3%97+Backend+%C3%97+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1400&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+systems+people+actually+use.;Founder+%40+VIT+Verse+%E2%80%94+4K%2B+users+%C2%B7+300K%2B+sessions;17%2B+Hackathon+Builds+%7C+Open+Source;AI+%C3%97+Mobile+%C3%97+Backend+%C3%97+Research" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://divyanshupatel.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://divyanshupatel.com"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   &nbsp;
-  <a href="https://vitverse.divyanshupatel.com"><img src="https://img.shields.io/badge/VIT_Verse_App-10B981?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+  <a href="https://vitverse.divyanshupatel.com"><img src="https://img.shields.io/badge/VIT_VERSE-10B981?style=for-the-badge&logo=flutter&logoColor=white"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/patel-divyanshu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/patel-divyanshu"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="mailto:itzdivyanshupatel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:itzdivyanshupatel@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br/>
@@ -26,16 +26,20 @@
 
 ---
 
-## `whoami`
+## ◈ Identity
 
-```typescript
-const divyanshu = {
-  role:       "CS Undergraduate (AI & ML) · VIT Chennai",
-  founded:    "VIT Verse — 4K+ users · 300K+ sessions · 4.8★",
-  hackathons: 17,
-  openTo:     ["GSoC", "Open Source", "Collabs", "Mentorship"],
-};
-```
+<div align="center">
+
+|  |  |
+|--|--|
+| 🎓 **Degree** | CS Undergraduate · AI & ML · VIT Chennai |
+| 🚀 **Founded** | VIT Verse — 4K+ users · 300K+ sessions · 4.8★ |
+| 🏆 **Hackathons** | 17+ national & international builds |
+| 🌍 **Location** | Chennai, India |
+| 🤝 **Open to** | GSoC · Open Source · Collabs · Mentorship |
+| ⚡ **Mantra** | _Ship fast. Build things people actually use._ |
+
+</div>
 
 ---
 
@@ -79,7 +83,7 @@ const divyanshu = {
 ## 🏆 Hackathon Builds
 
 <details>
-<summary><b>17 builds across national & international hackathons — expand to view</b></summary>
+<summary><b>17 builds across national &amp; international hackathons — expand to view</b></summary>
 
 <br/>
 
@@ -92,7 +96,7 @@ const divyanshu = {
 | 05 | **NPS Saarthi** — Offline-First NPS Onboarding | PFRDA Innovate4NPS | [Repo](https://github.com/divyanshupatel17/nps-saarthi) · [Demo](https://nps-saarthi.netlify.app) |
 | 06 | **AetherLab** — Edge Vision Tutor | AMD Ryzen Slingshot | [Repo](https://github.com/divyanshupatel17/AetherLab-Edge-Vision-Tutor-amd) |
 | 07 | **Agentic Honey-Pot** — Scam Intelligence | India AI Buildathon · GUVI-HCL | [Repo](https://github.com/divyanshupatel17/agentic-honey-pot-detection-guvi-hcl) · [Demo](https://agentic-honey-pot-detection-5yuc.onrender.com) |
-| 08 | **MechGuide** — AI Repair Co-Pilot | Gemini 3 Hackathon · Google DeepMind | [Repo](https://github.com/divyanshupatel17/mech-guide-gemini-3) · [Demo](https://divyanshupatel.com/mech-guide-gemini-3/) |
+| 08 | **MechGuide** — AI Repair Co-Pilot | Gemini 3 · Google DeepMind | [Repo](https://github.com/divyanshupatel17/mech-guide-gemini-3) · [Demo](https://divyanshupatel.com/mech-guide-gemini-3/) |
 | 09 | **DeepTrust Guardian** — Deepfake Detection | Tech-Ideathon Mauritius 2026 | [Repo](https://github.com/divyanshupatel17/DeepTrustGuardian-Deepfake-Detection-Firewall-TechIdeathon-vit) |
 | 10 | **Aadhaar Exclusion Mapping** | UIDAI Data Hackathon 2026 | [Repo](https://github.com/divyanshupatel17/aadhaar-exclusion-mapping) |
 | 11 | **SchemaSetu** — Voice-First Gov Schemes | AWS AI for Bharat | [Repo](https://github.com/divyanshupatel17/schemasetu-aws-ai-bharat) |
@@ -124,7 +128,7 @@ const divyanshu = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshupatel17&bg_color=0d1117&color=A78BFA&line=EC4899&point=ffffff&area=true&hide_border=true&area_color=7C3AED"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshupatel17&bg_color=0d1117&color=A78BFA&line=EC4899&point=ffffff&area=true&hide_border=true&area_color=2d1b69"/>
 
 </div>
 
@@ -136,46 +140,14 @@ const divyanshu = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshupatel17/divyanshupatel17/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshupatel17/divyanshupatel17/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/divyanshupatel17/divyanshupatel17/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/divyanshupatel17/divyanshupatel17/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
-
-<details>
-<summary><sub>⚙️ Activate snake animation — click for setup</sub></summary>
-
-Create `.github/workflows/snake.yml` inside repo `divyanshupatel17/divyanshupatel17`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: divyanshupatel17
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions → Generate Snake → Run workflow** to trigger it manually the first time.
-
-</details>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a0533,100:0a0a0a&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a0533,100:06000f&height=120&section=footer&animation=fadeIn"/>
 </div>
 
 <div align="center">
