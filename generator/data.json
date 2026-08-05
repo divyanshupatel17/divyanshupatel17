@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-05T17:25:26+00:00",
- "mode": "public",
+ "generated_at": "2026-08-05T17:34:16+00:00",
+ "mode": "graphql",
  "config": {
   "$comment": "The only file you edit by hand. Everything else regenerates. Values that GitHub can measure are never written here.",
   "identity": {
@@ -311,19 +311,19 @@
   "following": 25,
   "stars": 11,
   "forks": 2,
-  "contributions_year": 121,
-  "commits": 0,
-  "prs": 0,
+  "contributions_year": 122,
+  "commits": 36,
+  "prs": 2,
   "reviews": 0,
-  "issues": 0,
-  "private": 0,
+  "issues": 3,
+  "private": 6,
   "active_days": 44,
-  "best_day": 16,
-  "code_bytes": 355397
+  "best_day": 17,
+  "code_bytes": 9631705
  },
  "streak": {
   "current": 1,
-  "longest": 3,
+  "longest": 7,
   "current_start": "2026-08-05"
  },
  "calendar": {
@@ -1057,14 +1057,14 @@
    "2026-08-02": 0,
    "2026-08-03": 0,
    "2026-08-04": 0,
-   "2026-08-05": 16
+   "2026-08-05": 17
   }
  },
  "rhythm": {
   "weekday": [
    14,
    21,
-   23,
+   24,
    11,
    15,
    9,
@@ -1117,43 +1117,43 @@
    },
    {
     "month": "2026-08",
-    "count": 16
+    "count": 17
    }
   ]
  },
  "languages": [
   {
-   "name": "Dart",
-   "bytes": 188462,
-   "share": 0.5302858493459427
+   "name": "Jupyter Notebook",
+   "bytes": 4127211,
+   "share": 0.4285026379026351
   },
   {
    "name": "TypeScript",
-   "bytes": 108121,
-   "share": 0.3042259782721857
-  },
-  {
-   "name": "JavaScript",
-   "bytes": 29997,
-   "share": 0.08440420149860578
+   "bytes": 1395657,
+   "share": 0.14490238228849409
   },
   {
    "name": "C",
-   "bytes": 12055,
-   "share": 0.03391981361688478
+   "bytes": 1271397,
+   "share": 0.13200123965590724
   },
   {
    "name": "Python",
-   "bytes": 6474,
-   "share": 0.018216248308229953
+   "bytes": 899932,
+   "share": 0.09343434002598709
   },
   {
-   "name": "C++",
-   "bytes": 6125,
-   "share": 0.017234247897421756
+   "name": "Java",
+   "bytes": 545114,
+   "share": 0.056595794825526735
+  },
+  {
+   "name": "Dart",
+   "bytes": 458295,
+   "share": 0.04758191825850148
   }
  ],
- "languages_exact": false,
+ "languages_exact": true,
  "production": [
   {
    "name": "Findr",
@@ -1167,7 +1167,7 @@
    ],
    "probe": {
     "status": 200,
-    "ms": 2978,
+    "ms": 1055,
     "up": true,
     "title": "Findr: Dating &amp; Meet Singles | Two paths. One connection."
    }
@@ -1184,7 +1184,7 @@
    ],
    "probe": {
     "status": 200,
-    "ms": 1540,
+    "ms": 1109,
     "up": true,
     "title": "TestLoop \u2014 Test Apps. Help Build Better."
    }
