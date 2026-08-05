@@ -1,0 +1,37 @@
+name: Verify generator
+
+# Runs on every change to the generator, with no secrets. The data layer has a
+# tokenless path, so CI renders against real GitHub data rather than a fixture
+# and still needs nothing granted to it.
+on:
+  pull_request:
+    paths: ["generator/**", "profile.config.json", "README.template.md"]
+  push:
+    branches-ignore: [main, output]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render every panel from live public data
+        run: python -m generator.build --fetch --out build/assets
+
+      - name: Enforce budgets, palette and accessibility
+        run: python generator/check.py build/assets
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: panels
+          path: build/assets
+          retention-days: 7

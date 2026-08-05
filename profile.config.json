@@ -1,0 +1,113 @@
+{
+  "$comment": "The only file you edit by hand. Everything else regenerates. Values that GitHub can measure are never written here.",
+
+  "identity": {
+    "login": "divyanshupatel17",
+    "name": "Divyanshu Patel",
+    "role": "AI & Full-Stack Engineer",
+    "origin": "Chennai, India",
+    "education": "B.Tech CSE, AI & ML",
+    "statement": "Ship it, then make it hold.",
+    "toolchain": "Neovim, Git, Docker, Figma"
+  },
+
+  "spec": {
+    "$comment": "Right-hand column of the terminal. Keys marked auto are filled from live data at build time and must not be given a value here.",
+    "rows": [
+      { "key": "Subject", "auto": "name" },
+      { "key": "Role", "value": "AI & Full-Stack Engineer" },
+      { "key": "Origin", "auto": "location" },
+      { "key": "Education", "value": "B.Tech CSE, AI & ML" },
+      { "key": "Uptime", "auto": "since" },
+      { "key": "ToolChain", "value": "Neovim, Git, Docker, Figma" },
+      { "gap": true },
+      { "key": "Core.Lang", "auto": "languages" },
+      { "key": "Core.Mobile", "value": "Flutter, Dart" },
+      { "key": "Core.Web", "value": "React, Next.js, Tailwind" },
+      { "key": "Core.Backend", "value": "FastAPI, Node.js" },
+      { "key": "Core.Data", "value": "PostgreSQL, Supabase, Firebase" },
+      { "key": "Core.AI", "value": "PyTorch, Gemini, LangChain" },
+      { "key": "Core.Infra", "value": "Vercel, Docker, GitHub Actions" },
+      { "gap": true },
+      { "key": "Grid.Repos", "auto": "repos" },
+      { "key": "Grid.Mail", "auto": "email" },
+      { "key": "Grid.Web", "auto": "portfolio" },
+      { "key": "Grid.LinkedIn", "auto": "linkedin" },
+      { "key": "Grid.GitHub", "auto": "handle" }
+    ]
+  },
+
+  "portrait": {
+    "$comment": "Halftone source. crop is fractional so it survives a new avatar; tune centre/spot if you swap the photo.",
+    "source": "https://avatars.githubusercontent.com/u/147162942?v=4&s=460",
+    "crop": [0.283, 0.161, 0.878, 0.878],
+    "grid": [104, 125],
+    "centre": [0.5, 0.46],
+    "spot": [0.6, 0.62],
+    "radius": 3.2,
+    "gain": 2.4,
+    "floor": 0.12
+  },
+
+  "links": {
+    "portfolio": "https://divyanshupatel.com",
+    "linkedin": "https://linkedin.com/in/patel-divyanshu",
+    "email": "itzdivyanshupatel@gmail.com"
+  },
+
+  "production": [
+    {
+      "name": "Findr",
+      "url": "https://findr.date/",
+      "tagline": "Two paths. One connection.",
+      "detail": "Matching product built around intent rather than endless swiping. Live, public, taking real traffic.",
+      "stack": ["Next.js", "PostgreSQL", "Vercel"]
+    },
+    {
+      "name": "TestLoop",
+      "url": "https://testloop.divyanshupatel.com/",
+      "tagline": "Test apps. Help build better.",
+      "detail": "Closed-loop tester platform: recruit real testers, collect structured feedback, ship the fix.",
+      "stack": ["React", "FastAPI", "Supabase"]
+    }
+  ],
+
+  "typing": {
+    "$comment": "Lines cycled by the caret under the terminal. Keep each under 62 characters.",
+    "lines": [
+      "building things that survive contact with real users",
+      "applied AI, mobile, and the backend that holds it up",
+      "shipping in public, iterating in the open"
+    ]
+  },
+
+  "stack": {
+    "ignore_languages": ["html", "css", "scss", "shell", "makefile", "dockerfile", "cmake", "batchfile", "procfile"],
+    "$comment": "Shields wall. group renders as one row; slug is the simple-icons slug.",
+    "shields": [
+      { "group": "Languages", "items": [
+        ["Python", "python"], ["Dart", "dart"], ["TypeScript", "typescript"],
+        ["JavaScript", "javascript"], ["Java", "openjdk"], ["C++", "cplusplus"]
+      ]},
+      { "group": "Frameworks", "items": [
+        ["Flutter", "flutter"], ["React", "react"], ["Next.js", "nextdotjs"],
+        ["Node.js", "nodedotjs"], ["FastAPI", "fastapi"], ["Tailwind", "tailwindcss"]
+      ]},
+      { "group": "AI", "items": [
+        ["PyTorch", "pytorch"], ["TensorFlow", "tensorflow"],
+        ["Gemini", "googlegemini"], ["LangChain", "langchain"], ["OpenCV", "opencv"]
+      ]},
+      { "group": "Data & Infra", "items": [
+        ["PostgreSQL", "postgresql"], ["Supabase", "supabase"],
+        ["Firebase", "firebase"], ["MongoDB", "mongodb"],
+        ["Docker", "docker"], ["Vercel", "vercel"], ["Git", "git"]
+      ]}
+    ]
+  },
+
+  "mascot": {
+    "$comment": "The first computer bug was a moth found in a relay. This one is drawn to the phosphor.",
+    "name": "Relay",
+    "line": "the first bug was a moth. this one is friendly."
+  }
+}

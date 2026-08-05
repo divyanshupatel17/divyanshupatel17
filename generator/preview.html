@@ -1,0 +1,63 @@
+<!doctype html>
+<!--
+  Local design harness. Open this file directly in a browser after
+  `python -m generator.build --demo` to review every panel in both themes at
+  the width GitHub actually renders them. Not shipped to the profile.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Profile panels — preview</title>
+<style>
+  :root { --page:#08080A; --fg:#F5F5F7; --edge:#1E1E26; }
+  body.light { --page:#FFFCF7; --fg:#14110C; --edge:#E5DCCB; }
+  body { margin:0; background:var(--page); color:var(--fg); font:14px/1.5
+         system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+  header { position:sticky; top:0; display:flex; gap:12px; align-items:center;
+           padding:14px 24px; background:var(--page); border-bottom:1px solid var(--edge); z-index:9; }
+  button { font:inherit; padding:6px 14px; border-radius:8px; cursor:pointer;
+           background:transparent; color:var(--fg); border:1px solid var(--edge); }
+  button[aria-pressed="true"] { border-color:#FFA94D; color:#FFA94D; }
+  main { max-width:880px; margin:0 auto; padding:32px 24px 96px; }
+  /* 880px is GitHub's README content column — review at the real size */
+  figure { margin:0 0 28px; }
+  figcaption { font:11px/1 ui-monospace,monospace; letter-spacing:.14em;
+               text-transform:uppercase; opacity:.45; margin-bottom:8px; }
+  img { width:100%; display:block; border-radius:12px; }
+  .wide main { max-width:1240px; }
+</style>
+</head>
+<body>
+<header>
+  <button id="theme" aria-pressed="false">Toggle theme</button>
+  <button id="width" aria-pressed="false">Toggle width (880 / 1200)</button>
+  <button id="replay">Replay animations</button>
+  <span style="opacity:.5">panels render at 1200px and scale down</span>
+</header>
+<main id="stage"></main>
+<script>
+const PANELS = ["hero","production","pulse","skyline","mascot"];
+let theme = "dark";
+const stage = document.getElementById("stage");
+function paint() {
+  stage.innerHTML = PANELS.map(p => `
+    <figure>
+      <figcaption>${p} · ${theme}</figcaption>
+      <img src="../assets/${p}-${theme}.svg?t=${Date.now()}" alt="${p}">
+    </figure>`).join("");
+}
+document.getElementById("theme").onclick = e => {
+  theme = theme === "dark" ? "light" : "dark";
+  document.body.classList.toggle("light", theme === "light");
+  e.target.setAttribute("aria-pressed", theme === "light");
+  paint();
+};
+document.getElementById("width").onclick = e => {
+  document.body.classList.toggle("wide");
+  e.target.setAttribute("aria-pressed", document.body.classList.contains("wide"));
+};
+document.getElementById("replay").onclick = paint;
+paint();
+</script>
+</body>
+</html>
