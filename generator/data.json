@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T10:04:41+00:00",
+ "generated_at": "2026-08-30T09:14:31+00:00",
  "mode": "graphql",
  "config": {
   "$comment": "The only file you edit by hand. Everything else regenerates. Values that GitHub can measure are never written here.",
@@ -328,7 +328,6 @@
  },
  "calendar": {
   "window": [
-   "2025-08-31",
    "2025-09-01",
    "2025-09-02",
    "2025-09-03",
@@ -691,10 +690,10 @@
    "2026-08-26",
    "2026-08-27",
    "2026-08-28",
-   "2026-08-29"
+   "2026-08-29",
+   "2026-08-30"
   ],
   "counts": {
-   "2025-08-31": 0,
    "2025-09-01": 0,
    "2025-09-02": 0,
    "2025-09-03": 0,
@@ -1057,7 +1056,8 @@
    "2026-08-26": 0,
    "2026-08-27": 0,
    "2026-08-28": 0,
-   "2026-08-29": 0
+   "2026-08-29": 0,
+   "2026-08-30": 0
   }
  },
  "rhythm": {
@@ -1167,7 +1167,7 @@
    ],
    "probe": {
     "status": 200,
-    "ms": 1025,
+    "ms": 1119,
     "up": true,
     "title": "Findr: Dating &amp; Meet Singles | Two paths. One connection."
    }
@@ -1184,7 +1184,7 @@
    ],
    "probe": {
     "status": 200,
-    "ms": 873,
+    "ms": 922,
     "up": true,
     "title": "TestLoop \u2014 Test Apps. Help Build Better."
    }
